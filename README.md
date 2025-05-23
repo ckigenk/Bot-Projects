@@ -7,4 +7,4 @@ This repository contains all the my web scrapping and bot projects
 | [Journal_article_finder_bot](https://github.com/ckigenk/Journal_article_finder_bot) | A bot for scrapping journal articles matching a provided search term
 | [Institution web scrapping](https://github.com/ckigenk/Institution-web-scrapping) | Scrape staff data (Name, email, bio) from instituition website
 | [New Article Alert Bot](https://github.com/ckigenk/New-journal-article-alert) | A bot that will alert user when a new article matching a specified criteria is published on pubmed
-| [KEMRI Digital Repository Scraper](https://github.com/ckigenk/New-journal-article-alert) | A bot that retrieves all MSC or PHD thesis or Past Papers and summary report
+| [KEMRI Digital Repository Scraper](https://github.com/ckigenk/KEMRI-Digital-Repository-Scrapper) | A bot that retrieves all MSC or PHD thesis or Past Papers and summary report
